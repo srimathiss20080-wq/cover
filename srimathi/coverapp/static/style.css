@@ -1,0 +1,76 @@
+body{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+}     
+.page{
+    width: 500px;
+    height: 700px;
+    background-image: url(frontend.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 20px solid pink;
+    padding:20px;
+    box-sizing:border-box;
+    background-clip: padding-box;
+    position: relative;
+       
+}
+
+.insights{
+   color: #ffff;
+    font-size: 18px;
+   font-weight: bold;
+   margin-bottom: 10px;
+}
+.hr{
+    color: white;
+    width: 120px;
+    right: 200%;
+}
+.title{
+    color: #ffff;
+    font-size: 45px;
+     margin: 13px 0 15px 0;
+    
+   font-weight: bold;
+    text-align: center;
+    
+}
+.subtitle{
+    color: #ffff;
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+.edit{
+    color: #ffff;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 400px;
+}
+.name{
+    color: #ffff;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 5px;
+   
+}
+.bottom{
+    color: #ffff;
+    position: absolute;
+    bottom: 20px;
+    right: 60px;
+    font-weight: bold;
+}
+.pic{
+    position: absolute;
+    bottom:90px;
+    left: 75%;
+    width: 100px;
+    height:100px;
+    background: url(myimage.jpg) no-repeat;
+    background-size: 80px;
+
+}
