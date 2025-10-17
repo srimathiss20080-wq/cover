@@ -53,10 +53,11 @@ cover.html
             <div class="title">
              YOGA 
             </div>
-            <div class="subtitle">
-              Yoga:A beginners guide to yoga and meditation.<br>
-              Top Seller of 2025
+            Python Progranmming
             </div>
+            <div class="subtitle">
+              Python:A beginners guide to python Programming 2025<br>
+                            Top Seller of 2025
             <div class="edit">
              FIRST EDITION
              </div>
@@ -152,6 +153,7 @@ body{
 }
 ```
 ## OUTPUT:
-![alt text](<Screenshot (35).png>)
+<img width="744" height="883" alt="Screenshot 2025-10-17 110249" src="https://github.com/user-attachments/assets/8a4317ad-a5fc-48ac-9a0b-456f66be59ab" />
+
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
