@@ -68,7 +68,8 @@ cover.html
                 <div class="bottom">
                     SEC
                 </div>
-            <div class="pic">
+                <div class="pic">
+                </div>
             </div> 
         </div>
     </body>
@@ -125,7 +126,7 @@ body{
     color: #ffff;
     font-size: 18px;
     font-weight: bold;
-    margin-top: 400px;
+    margin-top: 300px;
 }
 .name{
     color: #ffff;
